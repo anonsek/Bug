@@ -50,7 +50,7 @@ global.mess = {
     premium: '_*Premium only! Buy Premium Chat Owner at https://t.me/sakki_47 or type .owner*_',
     endLimit: '_*Limit Harian Anda Telah Habis!\nLimit Akan Direset Setiap Pukul 00:00 WIB atau Dengan Membeli Premium dan Dapatkan Limit Unlimited\nBuy Prem? Chat https://t.me/Arraffixd*_',
     maintenance: '_*Sorry, this feature is currently under maintenance.*_',
-    wait: 'I'm like a ventilator....',
+    wait: 'I am like a ventilator....',
     error: 'Oops, this is an error'
 }
 
